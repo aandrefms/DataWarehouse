@@ -5,18 +5,30 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Data Warehouse Sucos", "Data Warehouse Sucos\Data Warehouse Sucos.sqlproj", "{EFACA54F-D9C0-43E1-A03F-06308428A4CF}"
 EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "CargaDataWarehouse", "CargaDataWarehouse\CargaDataWarehouse.dtproj", "{FC47E2E4-6ACA-4A0B-910E-B516BBC50955}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Development|Any CPU = Development|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{EFACA54F-D9C0-43E1-A03F-06308428A4CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EFACA54F-D9C0-43E1-A03F-06308428A4CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFACA54F-D9C0-43E1-A03F-06308428A4CF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EFACA54F-D9C0-43E1-A03F-06308428A4CF}.Development|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFACA54F-D9C0-43E1-A03F-06308428A4CF}.Development|Any CPU.Build.0 = Debug|Any CPU
+		{EFACA54F-D9C0-43E1-A03F-06308428A4CF}.Development|Any CPU.Deploy.0 = Debug|Any CPU
 		{EFACA54F-D9C0-43E1-A03F-06308428A4CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFACA54F-D9C0-43E1-A03F-06308428A4CF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EFACA54F-D9C0-43E1-A03F-06308428A4CF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{FC47E2E4-6ACA-4A0B-910E-B516BBC50955}.Debug|Any CPU.ActiveCfg = Development
+		{FC47E2E4-6ACA-4A0B-910E-B516BBC50955}.Debug|Any CPU.Build.0 = Development
+		{FC47E2E4-6ACA-4A0B-910E-B516BBC50955}.Development|Any CPU.ActiveCfg = Development
+		{FC47E2E4-6ACA-4A0B-910E-B516BBC50955}.Development|Any CPU.Build.0 = Development
+		{FC47E2E4-6ACA-4A0B-910E-B516BBC50955}.Release|Any CPU.ActiveCfg = Development
+		{FC47E2E4-6ACA-4A0B-910E-B516BBC50955}.Release|Any CPU.Build.0 = Development
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
