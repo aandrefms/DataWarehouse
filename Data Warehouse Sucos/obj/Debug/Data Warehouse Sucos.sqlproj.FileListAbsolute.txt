@@ -1,0 +1,5 @@
+C:\Users\andre\Desktop\Projetos\Data Warehouse Sucos\Data Warehouse Sucos\bin\Debug\Data Warehouse Sucos.dacpac
+C:\Users\andre\Desktop\Projetos\Data Warehouse Sucos\Data Warehouse Sucos\bin\Debug\Data_Warehouse_Sucos.dll
+C:\Users\andre\Desktop\Projetos\Data Warehouse Sucos\Data Warehouse Sucos\bin\Debug\Data_Warehouse_Sucos.pdb
+C:\Users\andre\Desktop\Projetos\Data Warehouse Sucos\Data Warehouse Sucos\obj\Debug\Data_Warehouse_Sucos.dll
+C:\Users\andre\Desktop\Projetos\Data Warehouse Sucos\Data Warehouse Sucos\obj\Debug\Data_Warehouse_Sucos.pdb

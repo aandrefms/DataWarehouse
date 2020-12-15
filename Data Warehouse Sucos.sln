@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Data Warehouse Sucos", "Data Warehouse Sucos\Data Warehouse Sucos.sqlproj", "{EFACA54F-D9C0-43E1-A03F-06308428A4CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFACA54F-D9C0-43E1-A03F-06308428A4CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFACA54F-D9C0-43E1-A03F-06308428A4CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFACA54F-D9C0-43E1-A03F-06308428A4CF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EFACA54F-D9C0-43E1-A03F-06308428A4CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFACA54F-D9C0-43E1-A03F-06308428A4CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFACA54F-D9C0-43E1-A03F-06308428A4CF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1693CBBD-A038-45F5-B8B6-25C66004D99C}
+	EndGlobalSection
+EndGlobal
